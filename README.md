@@ -14,6 +14,7 @@ Samfällighetsföreningen Stickan har uppmärksammat att många av de boende i d
 
 Eftersom året är 2024 så måste ju en samfällighetsförening ha ett utlåningssystem! Du som expert på utveckling av appar har blivit kontaktad av samfällighetsföreningen Stickan för att utveckla en åt dem. 
 Som en utvecklare med koll på läget så börjar du såklart med en gedigen mockup och prototyp som ska testas på de boende i stickans område för att kunna slipas till ett användarvänligt mästerverk.
+
 Systemet ska vara mobilanpassat. Desktop är inte relevant i nuläget.
 
 ## Krav 
