@@ -33,13 +33,11 @@ Systemet ska vara mobilanpassat. Desktop är inte relevant i nuläget.
 * batteridriven sticksåg
 * batteridriven cirkelsåg
 * batteridriven tigersåg
-* batteridriven kap & -gersåg
 * batteridriven vinkelslip
 * batteridriven multiverktyg
 * batteridriven bandslip
 * batteridriven varmluftspistol
 * batteridriven spikpistol
-* batteridriven borrmaskin inkl borrsats
 * batteridriven slagborrmaskin inkl borrsats
 * batteridriven skruvdragare inkl bitssats
 * batteridriven motorsåg
