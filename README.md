@@ -76,7 +76,7 @@ De 5 principerna:
 * Satisfaction
 
 ## Resurser
-Bilder som skall användas för sidans verktyg [hittar du här](https://drive.google.com/file/d/1rm6EPp9dERhFvPGv6_1jQGqrgc8Xq14X/view?usp=sharing).
+Bilder som skall användas för sidans verktyg [hittar du här](https://drive.google.com/file/d/1U3mPn70U0AjTTIX7dsrb9hOwQeJwiSL0/view?usp=sharing).
 
 ## Inlämning
 
